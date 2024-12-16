@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Lomas Javaloyes"
+    given-names: "Iker"
+    orcid: "https://orcid.org/0009-0002-7062-118X"
+title: "Numerical Solutions to the FAQUAD Protocol"
+version: 1.0.0
+date-released: 2024-12-16
+url: "https://github.com/ikerbenidorm/faquad-protocol"
+repository-code: "https://github.com/ikerbenidorm/faquad-protocol"
+abstract: "This repository contains numerical solutions to the FAQUAD protocol, applicable to Two-Level Systems (TLS) and multi-level systems. Developed for a Bachelor's thesis."
