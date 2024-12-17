@@ -34,7 +34,6 @@ If you use this code, please cite it as follows:
   author = {Iker Lomas Javaloyes},
   title = {Numerical Solutions to the FAQUAD Protocol},
   year = {2024},
-  note = {Bachelor's thesis, supervised by María Rosa López Gonzalo},
   howpublished = {\url{https://github.com/ikerbenidorm/faquad-protocol}},
   institution = {University of the Balearic Islands},
 }
