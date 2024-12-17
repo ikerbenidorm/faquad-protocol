@@ -2,13 +2,13 @@
 
 ## Project Description
 
-This repository contains code for numerically solving the FAQUAD protocol, with examples for both Two-Level Systems (TLS) and multi-level systems. For TLS, an analytical solution is also included to compute the error between analytical and numerical results. The project utilizes both Julia and Python kernels.
+This repository contains code for numerically solving the FAQUAD protocol applicable to Two-Level Systems (TLS) and multi-level systems., with examples for TLS. For TLS, an analytical solution is also included to compute the error between analytical and numerical results. The project utilizes both Julia and Python kernels.
 
 ## Contents
 
-- **Two-Level Systems (TLS):** Includes numerical and analytical solutions.
-- **Multi-Level Systems:** Numerical solutions for systems with more than two levels.
-- **Julia and Python Kernels:** Codes are available in both Julia and Python.
+- **Two-Level Systems (TLS):** Includes numerical and analytical solutions and exemples.
+- **Multi-Level Systems:** Numerical solutions applicable for systems with more than two levels.
+- **Julia and Python Kernels:** Codes use Julia and Python.
 
 ## Usage
 
